@@ -1,4 +1,4 @@
-# Craps Dice Game
+# User Entry Validation Practice Codes
 
 ## Introduction
 
