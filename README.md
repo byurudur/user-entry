@@ -8,7 +8,6 @@ This Java application simulates a simplified version of the user-entry validatio
 ## Technologies Used
 
 - **Java**: Programming language used for the application.
-- 
 ## Running the Program
 
 1. Copy the code into `Main.java`.
